@@ -1,7 +1,7 @@
 # C++
 ![repo-size](https://img.shields.io/github/repo-size/harshitbansal373/c-plus-plus?style=flat-square)
+
 ## Overview
----
 The repository is a collection of open-source implementation of a variety of programs and algorithms implemented in C++. basic programs and competitive programming codes both are welcomed to contribute here.  
 
 ## Features
