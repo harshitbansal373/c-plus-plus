@@ -1,12 +1,10 @@
 # C++
----
 ![repo-size](https://img.shields.io/github/repo-size/harshitbansal373/c-plus-plus?style=flat-square)
 ## Overview
 ---
 The repository is a collection of open-source implementation of a variety of programs and algorithms implemented in C++. basic programs and competitive programming codes both are welcomed to contribute here.  
 
 ## Features
----
 
 * The repository provides implementations of various algorithms in one of the most fundamental general purpose languages - [C++](https://en.wikipedia.org/wiki/C%2B%2B).
 * Well documented source code with detailed explanations provide a valuable resource for educators and students alike.
@@ -17,5 +15,4 @@ The repository is a collection of open-source implementation of a variety of pro
 * Modular implementations and OpenSource licensing enable the functions to be utilized conveniently in other applications.
 
 ## contribution
----
 This repository is opened for your contribution. let's build it a large collection of c++ programmatic and algorithmic codes. More to more contributions make it accessible to others and make you a better programmer. So let's do it. 
