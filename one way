@@ -1,0 +1,15 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+int num;
+int a, j;
+cin>>num;	
+double dp[num+1];
+dp[1]=1.0;
+for(j=2; j<num+1; j++)
+{ double y =(double)1/j;
+  dp[j]=y+dp[j-1]; }
+    for(j=0; j<num; j++)       
+       cin>>a;
+cout<<fixed<<setprecision(6)<<dp[n];
+}
